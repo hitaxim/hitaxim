@@ -36,6 +36,7 @@ I'm **Hitaxi Mistry**, a **Data Engineer** passionate about building **scalable,
 
 ## ⚡ Fun fact: 
 I can optimize a SQL query faster than I can decide what to watch on Netflix!" 😆
+
 I speak three languages: English, SQL, and Python. And honestly, SQL gives me the least trouble!" 
 
 <!--
