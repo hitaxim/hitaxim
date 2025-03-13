@@ -1,9 +1,4 @@
-## Hi there 👋
-
 # 🚀 Hitaxi Mistry | Data Engineer  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/hitaxi-mistry29)  
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/hitaxim)  
 
 ## 👋 Welcome!  
 
@@ -29,6 +24,10 @@ I'm **Hitaxi Mistry**, a **Data Engineer** passionate about building **scalable,
 → Developed a **scalable PostgreSQL + MongoDB architecture** for high-speed transactions, improving query speeds by **35%**  
 
 ## 🎯 Let's Connect!  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://linkedin.com/in/hitaxi-mistry29)  
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/hitaxim)  
+
 🚀 I'm actively looking for exciting **Data Engineering, AI, and Cloud** opportunities. Feel free to **reach out** if you're hiring or just want to geek out over data! 😊  
 
 📬 **Email:** hitaximistry5@gmail.com  
