@@ -28,16 +28,15 @@ I'm **Hitaxi Mistry**, a **Data Engineer** passionate about building **scalable,
 📌 **Distributed Database for E-Commerce**  
 → Developed a **scalable PostgreSQL + MongoDB architecture** for high-speed transactions, improving query speeds by **35%**  
 
-## 📊 GitHub Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hitaxim&layout=compact&theme=radical)  
-![Profile Views](https://komarev.com/ghpvc/?username=hitaxim&color=blue)  
-
 ## 🎯 Let's Connect!  
 🚀 I'm actively looking for exciting **Data Engineering, AI, and Cloud** opportunities. Feel free to **reach out** if you're hiring or just want to geek out over data! 😊  
 
 📬 **Email:** hitaximistry5@gmail.com  
 📍 **Location:** Open to Remote & Hybrid Roles  
 
+## ⚡ Fun fact: 
+I can optimize a SQL query faster than I can decide what to watch on Netflix!" 😆
+I speak three languages: English, SQL, and Python. And honestly, SQL gives me the least trouble!" 
 
 <!--
 **hitaxim/hitaxim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
